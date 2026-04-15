@@ -1,4 +1,4 @@
-# Big-Back-Bites
+# Big-Back-Bites created by Vinisha, Arshitha, Harshita, and Shannon in a timespan of 1 hour! 
 Winner of designathon 2026 Interaction Design Association UWB
 <img width="1512" height="812" alt="image" src="https://github.com/user-attachments/assets/a59c20a5-ed27-426d-9852-57cbbc01fe9a" />
 <img width="1512" height="812" alt="image" src="https://github.com/user-attachments/assets/2fd86cf3-2e4c-4acc-a61e-0f0027600348" />
