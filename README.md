@@ -1,7 +1,10 @@
-# Big-Back-Bites created by Harshita, Vinisha, Arshitha, and Shannon in a timespan of 1 hour! 
+# Big-Back-Bites created by Harshita, Vinisha, Arshitha, and Shannon in a timespan of 1 hour on April 14th, 2026! 
 Link here: https://www.figma.com/make/IOIzlPx5o1lEceGFTB5Db7/Create-Figma-logo?p=f&t=dNstMPYFCLoIkr9A-0&fullscreen=1 <br>
 🥇 Winner of IxDA UWB Designathon 2026 <br>
 Food discovery app designed and prototyped in Figma, then built out as a fully interactive frontend in TypeScript
+<img width="600" height="797" alt="image" src="https://github.com/user-attachments/assets/9ef0cf14-43cb-4798-8ecd-797f404a740e" />
+-Library, UWB, April 16th, 2026 <br>
+See the website here!!! 
 <img width="1512" height="812" alt="image" src="https://github.com/user-attachments/assets/a59c20a5-ed27-426d-9852-57cbbc01fe9a" />
 <img width="1512" height="714" alt="image" src="https://github.com/user-attachments/assets/68703931-3243-4093-906d-0974bfbdaaa1" />
 <img width="1512" height="713" alt="image" src="https://github.com/user-attachments/assets/802fc00c-8e12-46af-b57e-6df505a97165" />
